@@ -1,7 +1,7 @@
 // PrinterPath.java
 // EE324 Project 2, 2017
 
-package TSP;
+package TSPPackage;
 
 import java.awt.Color;
 import java.awt.Font;

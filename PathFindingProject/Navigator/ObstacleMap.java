@@ -45,7 +45,7 @@ public class ObstacleMap {
 	// TEST CLIENT //
 	public static void main(String args[]) {
 		
-		ObstacleMap smf = new ObstacleMap("TEST-MAP-1A.txt");
+		ObstacleMap smf = new ObstacleMap("Test Map Files/TEST-MAP-1A.txt");
 		System.out.println("Input polygon points:");
 		System.out.println(smf.shape());
 

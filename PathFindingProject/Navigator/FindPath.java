@@ -6,6 +6,8 @@ import java.util.*;
 
 import edu.princeton.cs.introcs.StdDraw;
 
+//import edu.princeton.cs.introcs.StdDraw;
+
 public class FindPath {
 	
 	private static ObstacleMap points;
